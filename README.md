@@ -18,7 +18,7 @@ SHA256: 51D6765B2FBE0E9607170EF640476596D5633399CE40D7BC1B885C5846EA7DDB
 
 ## Руководство пользователя
 
-Руководство пользователя доступно по ссылке.
+Руководство пользователя доступно по [ссылке](https://github.com/sovaai/sova-devkit-configuration/blob/main/SOVA%20Developer%20Kit%20-%20Manual.pdf).
 
 ## Демо-доступы ASR/TTS (Cloud) и UUID
 
